@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 EPISODES = 5000
 RUNS = 1000
-G = 0.8
+G = 0.9
 
 if __name__ == "__main__":
     # setup gym environment
